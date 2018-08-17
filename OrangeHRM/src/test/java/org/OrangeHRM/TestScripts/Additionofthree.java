@@ -9,6 +9,8 @@ public class Additionofthree {
 	        
 	        Scanner sc = new Scanner(System.in);
 	        System.out.println("Enter the shipping cost of Item 1");
+	        System.out.println("");
+	       
 	        int Item1 = sc.nextInt();
 	        System.out.println("Enter the shipping cost of Item 2");
 	        int Item2 = sc.nextInt();
